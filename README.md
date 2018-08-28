@@ -1,4 +1,4 @@
-# swift-calculator
+# Calculator
 About: This is a simple Calculator that's specifically optimized for an iPad. 
 
 The Calculator: 
